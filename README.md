@@ -1,3 +1,12 @@
+This project is a web chat app created using the MERN stack the frontend devloped in React and MongoDB is used for the database.
+
+Technologies and Frameworks:
+
+Node.js
+Express js
+React
+MongoDB
+
 Final assignment for Full Stack Development I course
 
 STUDENTS:
