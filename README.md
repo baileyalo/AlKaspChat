@@ -2,10 +2,21 @@
 
 Technologies and Frameworks:
 
-Node.js
-Express js
-React
-MongoDB
+
+#Node.js
+![download](https://user-images.githubusercontent.com/90293555/154867343-1b1967ee-86ca-4aa5-a18f-668dfd3872d0.png)
+
+#Express js
+
+![download](https://user-images.githubusercontent.com/90293555/154867353-11420e50-d4a8-45fc-a5f6-57f429b3827a.png)
+
+#React
+
+![download](https://user-images.githubusercontent.com/90293555/154867363-17fee547-989d-4dde-ba4a-e5945f31c75c.png)
+
+
+#MongoDB
+![download](https://user-images.githubusercontent.com/90293555/154867376-bf485097-d072-41b0-bac8-76b8f7b91f20.png)
 
 Final assignment for Full Stack Development I course
 
