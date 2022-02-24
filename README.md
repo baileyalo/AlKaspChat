@@ -1,5 +1,8 @@
 # This project is a web chat app created using the MERN stack the frontend devloped in React and MongoDB is used for the database.
 
+
+***
+
 ## Technologies and Frameworks:
 
 
@@ -28,7 +31,7 @@ Alwayne.Bailey@georgebrown.ca
 Kasper Pawlowski
 101367569
 Kasper.Pawlowski@georgebrown.ca
-***
+```javascript
 
 
 HOW TO RUN OUR CHAT APPLICATION:
@@ -69,7 +72,7 @@ returns chat history from user Alwayne in chat Developers
 
 ***
 
-```javascript
+
 
 
 The chat is also hosted via Digital Ocean on:
