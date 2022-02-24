@@ -1,21 +1,21 @@
 # This project is a web chat app created using the MERN stack the frontend devloped in React and MongoDB is used for the database.
 
-# Technologies and Frameworks:
+## Technologies and Frameworks:
 
 
-# Node.js
+### Node.js
 ![download](https://user-images.githubusercontent.com/90293555/154867343-1b1967ee-86ca-4aa5-a18f-668dfd3872d0.png)
 
-# Express js
+### Express js
 
 ![download](https://user-images.githubusercontent.com/90293555/154867353-11420e50-d4a8-45fc-a5f6-57f429b3827a.png)
 
-# React
+### React
 
 ![download](https://user-images.githubusercontent.com/90293555/154867363-17fee547-989d-4dde-ba4a-e5945f31c75c.png)
 
 
-# MongoDB
+### MongoDB
 ![download](https://user-images.githubusercontent.com/90293555/154867376-bf485097-d072-41b0-bac8-76b8f7b91f20.png)
 
 Final assignment for Full Stack Development I course
@@ -28,6 +28,7 @@ Alwayne.Bailey@georgebrown.ca
 Kasper Pawlowski
 101367569
 Kasper.Pawlowski@georgebrown.ca
+***
 
 
 HOW TO RUN OUR CHAT APPLICATION:
@@ -35,6 +36,7 @@ HOW TO RUN OUR CHAT APPLICATION:
 2. run application: npm run start
 3. open the browser and go to http://localhost:3000/ or other port if PORT environment variable specified
 4. enjoy!
+***
 
 As MongoDB server is cloud hosted, to check events and chat history do the following:
 1. open MongoDB Compass app
@@ -43,6 +45,7 @@ As MongoDB server is cloud hosted, to check events and chat history do the follo
 4. upon successful connection choose AlkaspChat database
 5. check Events and History collections
 
+***
 
 
 
@@ -50,6 +53,7 @@ Required queries were written in separate files that can be found in folder 'que
 To run them use the following command:
 node .\queries\retrieveEventLogs.js
 node .\queries\retrieveChatHistory.js [-u user] [-r room]
+***
 
 retrieveEventLogs.js returns to the console all the event logs
 retrieveChatHistory.js returns to the console all chat history according to the given parameters. Both of them are optional.
@@ -63,7 +67,9 @@ or
 node .\queries\retrieveChatHistory.js -u Alwayne -r Developers 
 returns chat history from user Alwayne in chat Developers
 
+***
 
+```javascript
 
 
 The chat is also hosted via Digital Ocean on:
